@@ -1,13 +1,9 @@
-# My Profile
+# MananaTheOne
+ - Professional noob
 
-## Hobbies
- - I updated it lmao now I do gamedev 
- - I make crappy music
- - I do pixel art
+## ℹ️ Info
+ - 👨‍💻 Programmer
+ - 🎵 Yes I make music
+ - 🎨 Yes I also make pixel art
 
-## I like..
-- Food
-- Discord Bot
-- Programming
-- Stress
-- why did I even add stress
+# 

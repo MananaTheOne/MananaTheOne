@@ -21,12 +21,16 @@
 
 <h3>My Favorite Word</h3>
 <dl>
-  <dt>ca·non·i·cal</dt>
+  <dt><h4>ca·non·i·cal</h4></dt>
   <dd>
    adjective
    <ol>
     <li>according to or ordered by canon law.</li>
     <li>included in the list of sacred books officially accepted as genuine.</li>
    </ol>
+   noun
+    <ul>
+    <li>the prescribed official dress of the clergy.</li>
+   </ul>
   </dd>
 </dl>
